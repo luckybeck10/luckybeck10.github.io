@@ -14,7 +14,7 @@
 <body>
     <nav class="navbar">
         <div class="navbar__container">
-            <a href="/School/Webdesign/index.html" id="navbar__logo"><img src="/School/Webdesign/billeder/Logo.png" alt="LOGO_mercedes" style="width: 90px;height: 60px;"> Mercedes</a>
+            <a href="/School/Webdesign/index.html" id="navbar__logo"><img src="https://logodownload.org/wp-content/uploads/2014/04/mercedes-benz-logo.png" alt="LOGO_mercedes" style="width: 90px;height: 60px;"> Mercedes</a>
 
             <div class="navbar__toggle" id="mobile-menu">
                 <span class="bar"></span>
