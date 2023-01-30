@@ -144,7 +144,7 @@
         height: 3px;
         margin: 5px auto;
         transition: all 0.3s ease-in-out;
-        background: #fff;
+        background: #282828;
     }
 
     .navbar__item {
@@ -201,8 +201,8 @@
 
 
 .main {
-    background-color: #ffff;
-    background-image: url(/billeder/Back-img.png);
+    background-color: #5e5e5e;
+    background-image: url(/School/Webdesign/billeder/Back-img.png);
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -263,13 +263,34 @@
     transition: all 0.5s;
 }
 
-@media screen and (max-width: 768px) {
-   .main__content {
+@media screen and (max-width: 960px) {
+
+
+    .main {
+        background-color: #282828;
+    }
+   
+   
+    .main__content {
     text-align: center;
-    margin-bottom: 4rem;
+    padding-left: 150px;
    }
 
    .main__content h1 {
-    margin-top: 2rem;
+    padding-top: 100px;
+   }
+
+   .main__content h2 {
+    padding-top: 250px;
+   }
+
+   .main__container {
+    background-color: #282828;
+
+   }
+
+   .main__btn {
+    top: 350px;
+    left: 350px;
    }
 }
