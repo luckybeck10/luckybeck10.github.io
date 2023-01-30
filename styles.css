@@ -202,7 +202,7 @@
 
 .main {
     background-color: #b35454;
-    background-image: url(https://github.com/luckybeck10/luckybeck10.github.io/blob/main/billeder/Back-img.png?raw=true);
+    background-image: url("https://github.com/luckybeck10/luckybeck10.github.io/blob/main/billeder/Back-img.png?raw=true");
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
