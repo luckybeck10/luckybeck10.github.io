@@ -300,12 +300,12 @@
 
 @media screen and (max-width: 960px) {
     .main__content h2 {
-        padding-top: 300px;
+        padding-top: 400px;
         margin-top: 10px;
        }
 
     .main__btn {
-        top: 450px;
+        top: 500px;
         left: 46%;
     }
    }
