@@ -1,0 +1,17 @@
+.main {
+    background-color: rgb(124, 207, 255);
+    padding-top: 10px;
+    text-align: center;
+    justify-content: left;
+    display: flex;
+    font-size: 20px;
+}
+
+a {
+    padding-right: 600px;
+    text-decoration: black;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgb(209, 107, 107);
+    
+}
