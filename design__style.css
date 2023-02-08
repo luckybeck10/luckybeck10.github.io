@@ -251,9 +251,16 @@
     align-items: center;
 }
 
+@media screen and (max-width: 1300px) {
+    .main {
+        zoom: 60%;
+        height: 300vh;
+    }
+}
+
 @media screen and (max-width: 1900px) {
     .main {
         zoom: 75%;
-        height: 230vh;
+        height: 250vh;
     }
 }
