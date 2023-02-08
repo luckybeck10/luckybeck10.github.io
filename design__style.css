@@ -250,3 +250,10 @@
     padding-top: 20px;
     align-items: center;
 }
+
+@media screen and (max-width: 1900px) {
+    .main {
+        zoom: 75%;
+        height: 230vh;
+    }
+}
